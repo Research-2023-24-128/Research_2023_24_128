@@ -2,6 +2,10 @@
 
 
 University Research Project - Recruiter Soft Skills Measurement App 👩‍🎓📱
+
+
+<a><img width="100%" src="Concentrate Analysis Components.png"> </a>
+
 Introduction 🌐
 Welcome to our University final year research project! 🎉 In this study, we aim to develop an innovative app for measuring recruiters' soft skills. While companies traditionally focus on employees' general and technical abilities, we believe that recruiters' soft skills are equally valuable assets for any organization. Unfortunately, these skills are often overlooked.
 
